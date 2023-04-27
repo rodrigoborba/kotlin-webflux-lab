@@ -1,2 +1,2 @@
 # kotlin-webflux-lab
-Reactive kotlin application using webflux and JDK 17.
+Reactive kotlin application using Springboot, Webflux and JDK 17.
